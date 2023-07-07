@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import io from 'socket.io-client';
 
-const socket = io('http://localhost:3001'); // Replace with your server URL
+const socket = io('https://island-romantic-punishment.glitch.me/'); // Replace with your server URL
 
 const App = () => {
   const [cards, setCards] = useState([]);

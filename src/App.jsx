@@ -22,11 +22,11 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Ding Dong ,Kuthulekile
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+       DIng ding ding ding ding ding ding
       </p>
     </>
   )
